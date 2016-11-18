@@ -1,0 +1,41 @@
+D:\Projects\Testing\bday\bday_console\bday\bday\bin\Debug\bday.exe.config
+D:\Projects\Testing\bday\bday_console\bday\bday\bin\Debug\bday.exe
+D:\Projects\Testing\bday\bday_console\bday\bday\bin\Debug\bday.pdb
+D:\Projects\Testing\bday\bday_console\bday\bday\obj\Debug\bday.csprojResolveAssemblyReference.cache
+D:\Projects\Testing\bday\bday_console\bday\bday\obj\Debug\bday.csproj.ResolveComReference.cache
+D:\Projects\Testing\bday\bday_console\bday\bday\obj\Debug\bday.exe
+D:\Projects\Testing\bday\bday_console\bday\bday\obj\Debug\bday.pdb
+D:\Projects\Testing\bday\bday_console\bday\bday\obj\Debug\Interop.GrooveAPIPrivate.dll
+D:\Projects\Testing\bday\bday_console\bday\bday\bin\Debug\Microsoft.SharePoint.Client.dll
+D:\Projects\Testing\bday\bday_console\bday\bday\bin\Debug\Microsoft.SharePoint.Client.Runtime.dll
+C:\Users\abhiso\Documents\Visual Studio 2015\Projects\BirthdayWish\auto_bday_wishes\bday\bin\Debug\bday.exe.config
+C:\Users\abhiso\Documents\Visual Studio 2015\Projects\BirthdayWish\auto_bday_wishes\bday\obj\Debug\Interop.GrooveAPIPrivate.dll
+C:\Users\abhiso\Documents\Visual Studio 2015\Projects\BirthdayWish\auto_bday_wishes\bday\obj\Debug\bday.csproj.ResolveComReference.cache
+C:\Users\abhiso\Documents\Visual Studio 2015\Projects\BirthdayWish\auto_bday_wishes\bday\obj\Debug\bday.exe
+C:\Users\abhiso\Documents\Visual Studio 2015\Projects\BirthdayWish\auto_bday_wishes\bday\obj\Debug\bday.pdb
+C:\Users\abhiso\Documents\Visual Studio 2015\Projects\BirthdayWish\auto_bday_wishes\bday\obj\Debug\bday.csprojResolveAssemblyReference.cache
+C:\Users\abhiso\Documents\Visual Studio 2015\Projects\BirthdayWish\auto_bday_wishes\bday\bin\Debug\bday.exe
+C:\Users\abhiso\Documents\Visual Studio 2015\Projects\BirthdayWish\auto_bday_wishes\bday\bin\Debug\bday.pdb
+C:\Users\abhiso\Documents\Visual Studio 2015\Projects\BirthdayWish\auto_bday_wishes\bday\bin\Debug\Microsoft.SharePoint.Client.dll
+C:\Users\abhiso\Documents\Visual Studio 2015\Projects\BirthdayWish\auto_bday_wishes\bday\bin\Debug\Microsoft.SharePoint.Client.Runtime.dll
+D:\Projects\Testing\New folder\auto_bday_wishes\bday\bin\Debug\bday.exe.config
+D:\Projects\Testing\New folder\auto_bday_wishes\bday\bin\Debug\bday.exe
+D:\Projects\Testing\New folder\auto_bday_wishes\bday\bin\Debug\bday.pdb
+D:\Projects\Testing\New folder\auto_bday_wishes\bday\bin\Debug\Microsoft.Exchange.WebServices.Auth.dll
+D:\Projects\Testing\New folder\auto_bday_wishes\bday\bin\Debug\Microsoft.Exchange.WebServices.dll
+D:\Projects\Testing\New folder\auto_bday_wishes\bday\bin\Debug\Microsoft.SharePoint.Client.dll
+D:\Projects\Testing\New folder\auto_bday_wishes\bday\bin\Debug\Microsoft.SharePoint.Client.Runtime.dll
+D:\Projects\Testing\New folder\auto_bday_wishes\bday\bin\Debug\Microsoft.IdentityModel.Extensions.dll
+D:\Projects\Testing\New folder\auto_bday_wishes\bday\bin\Debug\Microsoft.Exchange.WebServices.xml
+D:\Projects\Testing\New folder\auto_bday_wishes\bday\bin\Debug\Microsoft.Exchange.WebServices.Auth.xml
+D:\Projects\Testing\New folder\auto_bday_wishes\bday\obj\Debug\bday.csprojResolveAssemblyReference.cache
+D:\Projects\Testing\New folder\auto_bday_wishes\bday\obj\Debug\Interop.GrooveAPIPrivate.dll
+D:\Projects\Testing\New folder\auto_bday_wishes\bday\obj\Debug\bday.csproj.ResolveComReference.cache
+D:\Projects\Testing\New folder\auto_bday_wishes\bday\obj\Debug\bday.Properties.Resources.resources
+D:\Projects\Testing\New folder\auto_bday_wishes\bday\obj\Debug\bday.csproj.GenerateResource.Cache
+D:\Projects\Testing\New folder\auto_bday_wishes\bday\obj\Debug\bday.exe
+D:\Projects\Testing\New folder\auto_bday_wishes\bday\obj\Debug\bday.pdb
+C:\Users\abhiso\Documents\Visual Studio 2015\Projects\BirthdayWish\auto_bday_wishes\bday\bin\Debug\Microsoft.IdentityModel.Extensions.dll
+C:\Users\abhiso\Documents\Visual Studio 2015\Projects\BirthdayWish\auto_bday_wishes\bday\bin\Debug\Microsoft.Exchange.WebServices.Auth.xml
+C:\Users\abhiso\Documents\Visual Studio 2015\Projects\BirthdayWish\auto_bday_wishes\bday\obj\Debug\bday.Properties.Resources.resources
+C:\Users\abhiso\Documents\Visual Studio 2015\Projects\BirthdayWish\auto_bday_wishes\bday\obj\Debug\bday.csproj.GenerateResource.Cache
