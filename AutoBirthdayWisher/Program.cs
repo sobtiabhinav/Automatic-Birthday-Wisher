@@ -16,6 +16,8 @@ namespace AutoBirthdayWisher
 
     using Microsoft.Exchange.WebServices.Data;
     using Microsoft.SharePoint.Client;
+    using System.IO;
+    using System.Net;
 
     /// <summary>
     /// The program.
@@ -77,14 +79,23 @@ namespace AutoBirthdayWisher
                         </body> </html>";
 
                     email.Body = new MessageBody(BodyType.HTML, html);
-                    email.ToRecipients.Add("igdcrm@microsoft.com");
-                    email.CcRecipients.Add(item.Alias + "@microsoft.com");
+                   email.ToRecipients.Add("igdcrm@microsoft.com");
+                  
+
+                     email.CcRecipients.Add(item.Alias + "@microsoft.com");
 
                     // Add the attachment to the local copy of the email message.
-                    string file = @"..\..\Resources\_" + photo + ".jpg";
-                    email.Attachments.AddFileAttachment("HappyBirthday.jpg", file);
-                    string file1 = @"..\..\Resources\logo.jpg";
-                    email.Attachments.AddFileAttachment("logo.jpg", file1);
+                    string imageFilePath = ConfigurationManager.AppSettings["ImagesBlobStorageLink"] + "_" + photo + ".jpg";
+                    var webClientForImage = new WebClient();
+                    byte[] downloadedBdayImage = webClientForImage.DownloadData(imageFilePath);
+                    email.Attachments.AddFileAttachment("HappyBirthday.jpg", downloadedBdayImage);
+                    
+                    string logoImagePath = ConfigurationManager.AppSettings["ImagesBlobStorageLink"] + "/logo.jpg";
+
+                    var webClientForLogo = new WebClient();
+                    byte[] downloadedLogoImage1 = webClientForLogo.DownloadData(logoImagePath);
+
+                    email.Attachments.AddFileAttachment("logo.jpg", downloadedLogoImage1);
                     email.Attachments[0].IsInline = true;
                     email.Attachments[0].ContentId = "HappyBirthday.jpg";
                     email.Attachments[1].IsInline = true;

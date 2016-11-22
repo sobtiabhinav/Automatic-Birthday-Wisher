@@ -17,3 +17,18 @@ C:\Users\abhiso\Documents\Visual Studio 2015\Projects\BirthdayWish\AutoBirthdayW
 C:\Users\abhiso\Documents\Visual Studio 2015\Projects\BirthdayWish\AutoBirthdayWisher\AutoBirthdayWisher\obj\Debug\AutoBirthdayWisher.csproj.ResolveComReference.cache
 C:\Users\abhiso\Documents\Visual Studio 2015\Projects\BirthdayWish\AutoBirthdayWisher\AutoBirthdayWisher\obj\Debug\AutoBirthdayWisher.exe
 C:\Users\abhiso\Documents\Visual Studio 2015\Projects\BirthdayWish\AutoBirthdayWisher\AutoBirthdayWisher\obj\Debug\AutoBirthdayWisher.pdb
+D:\Projects\Testing\GITBday\AutoBirthdayWisher\bin\Debug\AutoBirthdayWisher.exe.config
+D:\Projects\Testing\GITBday\AutoBirthdayWisher\bin\Debug\AutoBirthdayWisher.exe
+D:\Projects\Testing\GITBday\AutoBirthdayWisher\bin\Debug\AutoBirthdayWisher.pdb
+D:\Projects\Testing\GITBday\AutoBirthdayWisher\bin\Debug\Microsoft.Exchange.WebServices.Auth.dll
+D:\Projects\Testing\GITBday\AutoBirthdayWisher\bin\Debug\Microsoft.Exchange.WebServices.dll
+D:\Projects\Testing\GITBday\AutoBirthdayWisher\bin\Debug\Microsoft.SharePoint.Client.dll
+D:\Projects\Testing\GITBday\AutoBirthdayWisher\bin\Debug\Microsoft.SharePoint.Client.Runtime.dll
+D:\Projects\Testing\GITBday\AutoBirthdayWisher\bin\Debug\Microsoft.IdentityModel.Extensions.dll
+D:\Projects\Testing\GITBday\AutoBirthdayWisher\bin\Debug\Microsoft.Exchange.WebServices.xml
+D:\Projects\Testing\GITBday\AutoBirthdayWisher\bin\Debug\Microsoft.Exchange.WebServices.Auth.xml
+D:\Projects\Testing\GITBday\AutoBirthdayWisher\obj\Debug\Interop.GrooveAPIPrivate.dll
+D:\Projects\Testing\GITBday\AutoBirthdayWisher\obj\Debug\AutoBirthdayWisher.csproj.ResolveComReference.cache
+D:\Projects\Testing\GITBday\AutoBirthdayWisher\obj\Debug\AutoBirthdayWisher.exe
+D:\Projects\Testing\GITBday\AutoBirthdayWisher\obj\Debug\AutoBirthdayWisher.pdb
+D:\Projects\Testing\GITBday\AutoBirthdayWisher\obj\Debug\AutoBirthdayWisher.csprojResolveAssemblyReference.cache
